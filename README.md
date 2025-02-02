@@ -1,21 +1,21 @@
 # Calculator
 Overview
 
-A simple web-based calculator that allows users to perform basic arithmetic operations with a clean and responsive interface. This project is designed to be lightweight and user-friendly, making it accessible for anyone looking to perform quick calculations. The calculator is built using HTML, CSS, and JavaScript, ensuring smooth performance and easy customization. With a straightforward interface, users can seamlessly input numbers, apply operations, and view results in real-time.
+A simple web-based calculator that allows users to perform basic arithmetic operations with a clean and responsive interface. This project is designed to be lightweight and user-friendly, making it accessible for anyone looking to perform quick calculations. The calculator is built using HTML, CSS, and JavaScript, ensuring smooth performance and easy customization. Users can seamlessly input numbers, apply operations, and view real-time results with a straightforward interface.
 
-Features
+**Features**
 
-Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division
+1. Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division
 
-Responsive UI with a clean layout
+2. Responsive UI with a clean layout
 
-Clickable buttons for input
+3. Clickable buttons for input
 
-Display updates dynamically
+4. Display updates dynamically
 
 Supports decimal input
 
-Dependencies
+**Dependencies**
 
 None (Pure HTML, CSS, and JavaScript)
 
